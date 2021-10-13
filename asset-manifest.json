@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MyReact/static/css/main.ca7c4aa1.chunk.css",
+    "main.js": "/MyReact/static/js/main.fc205e39.chunk.js",
+    "main.js.map": "/MyReact/static/js/main.fc205e39.chunk.js.map",
+    "runtime-main.js": "/MyReact/static/js/runtime-main.fcc99f0e.js",
+    "runtime-main.js.map": "/MyReact/static/js/runtime-main.fcc99f0e.js.map",
+    "static/js/2.730c85a6.chunk.js": "/MyReact/static/js/2.730c85a6.chunk.js",
+    "static/js/2.730c85a6.chunk.js.map": "/MyReact/static/js/2.730c85a6.chunk.js.map",
+    "static/js/3.9d47cf33.chunk.js": "/MyReact/static/js/3.9d47cf33.chunk.js",
+    "static/js/3.9d47cf33.chunk.js.map": "/MyReact/static/js/3.9d47cf33.chunk.js.map",
+    "index.html": "/MyReact/index.html",
+    "static/css/main.ca7c4aa1.chunk.css.map": "/MyReact/static/css/main.ca7c4aa1.chunk.css.map",
+    "static/js/2.730c85a6.chunk.js.LICENSE.txt": "/MyReact/static/js/2.730c85a6.chunk.js.LICENSE.txt",
+    "static/media/BAYC.71eda7f0.png": "/MyReact/static/media/BAYC.71eda7f0.png",
+    "static/media/index.css": "/MyReact/static/media/Montserrat-SemiBoldItalic.b0400063.ttf",
+    "static/media/ape1.34f03422.png": "/MyReact/static/media/ape1.34f03422.png",
+    "static/media/ape2.617dc537.png": "/MyReact/static/media/ape2.617dc537.png",
+    "static/media/ape3.557cd3e7.png": "/MyReact/static/media/ape3.557cd3e7.png",
+    "static/media/ape4.4e095133.png": "/MyReact/static/media/ape4.4e095133.png",
+    "static/media/bayc-footer.17271247.png": "/MyReact/static/media/bayc-footer.17271247.png",
+    "static/media/bayc-mutant-hero.906ca9b5.jpg": "/MyReact/static/media/bayc-mutant-hero.906ca9b5.jpg",
+    "static/media/garga.34ae2537.png": "/MyReact/static/media/garga.34ae2537.png",
+    "static/media/gordy.69c55c41.png": "/MyReact/static/media/gordy.69c55c41.png",
+    "static/media/icon3.e9561397.png": "/MyReact/static/media/icon3.e9561397.png",
+    "static/media/icon4.dec7cd5b.png": "/MyReact/static/media/icon4.dec7cd5b.png",
+    "static/media/icon5.b0ada717.png": "/MyReact/static/media/icon5.b0ada717.png",
+    "static/media/mystery-ape.90c29385.gif": "/MyReact/static/media/mystery-ape.90c29385.gif",
+    "static/media/sass.72e9f9ba.png": "/MyReact/static/media/sass.72e9f9ba.png",
+    "static/media/tomato.75730a4d.png": "/MyReact/static/media/tomato.75730a4d.png",
+    "static/media/updatedlogo.32e5c454.png": "/MyReact/static/media/updatedlogo.32e5c454.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc99f0e.js",
+    "static/js/2.730c85a6.chunk.js",
+    "static/css/main.ca7c4aa1.chunk.css",
+    "static/js/main.fc205e39.chunk.js"
+  ]
+}
